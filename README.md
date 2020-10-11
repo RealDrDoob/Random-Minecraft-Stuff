@@ -8,6 +8,9 @@ Disables the Ender Enchantment Table from [Lapis Stays in the Enchanting Table](
 
 ## Versions used for Testing
 [Mystical Agriculture 1.12.2-1.7.5](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)
+
 [Lapis Stays in the Enchanting Table 1.12.2-1.1.3](https://www.curseforge.com/minecraft/mc-mods/lapis-stays-in-the-enchanting-table)
+
 [CraftTweaker2 1.12-4.1.20.574](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
+
 [Minecraft 1.12.2](https://minecraft.net)
