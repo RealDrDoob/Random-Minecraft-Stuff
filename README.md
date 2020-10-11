@@ -1,9 +1,13 @@
-# CTRepairMysticalAgriculture
+# CraftTweaker2 Scripts
 
-## What's this do?
-Its a simple CraftTweaker script that allows you to repair MysticalAgriculture tools and weapons in the crafting table, just like vanilla items.
+## Repair Mystical Agriculture Stuff in Crafting Table
+A simple CraftTweaker script that allows you to repair MysticalAgriculture tools and weapons in the crafting table, just like vanilla items.
 
-## Requirements
-[Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture) (Tested with MysticalAgriculture-1.12.2-1.7.5)
-[CraftTweaker2](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) (Tested with CraftTweaker2-1.12-4.1.20.574)
-[Minecraft](https://minecraft.net)
+## Ender Enchantment Table Disabled
+Disables the Ender Enchantment Table from [Lapis Stays in the Enchanting Table](https://www.curseforge.com/minecraft/mc-mods/lapis-stays-in-the-enchanting-table)
+
+## Versions used for Testing
+[Mystical Agriculture 1.12.2-1.7.5](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)
+[Lapis Stays in the Enchanting Table 1.12.2-1.1.3](https://www.curseforge.com/minecraft/mc-mods/lapis-stays-in-the-enchanting-table)
+[CraftTweaker2 1.12-4.1.20.574](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
+[Minecraft 1.12.2](https://minecraft.net)
