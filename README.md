@@ -14,3 +14,14 @@ Disables the Ender Enchantment Table from [Lapis Stays in the Enchanting Table](
 [CraftTweaker2 1.12-4.1.20.574](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
 
 [Minecraft 1.12.2](https://minecraft.net)
+
+# Forge
+
+## cmd_shortcuts-1.12.2
+Just a little mod I did in MCreator because fuck java and all the other ones added extra stuff that broke my game.
+Shortcuts:
+Shortcut | Original Command
+|---|---|
+/gms | /gamemode survival
+/gmc | /gamemode creative
+/ci | /clear
